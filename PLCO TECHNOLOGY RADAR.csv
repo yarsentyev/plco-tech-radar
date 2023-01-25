@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
-3 amigo,Trial,Techniques,TRUE,
 Spec review,Adopt,Techniques,TRUE,
+3 amigo,Trial,Techniques,TRUE,
 Oracle,Adopt,Platforms,TRUE,
 Kafka,Adopt,Platforms,TRUE,
 Java 11,Adopt,Languages-And-Frameworks,TRUE,
